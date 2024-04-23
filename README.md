@@ -1,9 +1,7 @@
+<!-- Header -->
 <div align="center">
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋">
-
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋">
 </div>
 
 <h2>
@@ -67,39 +65,60 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 <div align="center">
 
 
-![Sass (SCSS) Badge](<https://img.shields.io/badge/sass_(scss)-582745?style=for-the-badge&logo=sass&logoColor=ee87ba>)
+![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f)
 ![TypeScript Badge](https://img.shields.io/badge/typeScript-203f58?style=for-the-badge&logo=typescript&logoColor=209aec)
-![C# Badge](https://img.shields.io/badge/c--sharp-473065?style=for-the-badge&logo=cSharp&logoColor=9780e5)
 
 </div>
 
 <h3 align="center">
-🖼️ UI/UX and Frontend Toolkit
+  🖼️ Frontend Toolkit
 </h3>
+
 <div align="center">
 
+![Angular Badge](https://img.shields.io/badge/angular-600012?style=for-the-badge&logo=angular&logoColor=dd0032) 
 ![RxJS Badge](https://img.shields.io/badge/rxjs-610425?style=for-the-badge&logo=reactivex&logoColor=e10988)
-![Angular Badge](https://img.shields.io/badge/angular-600012?style=for-the-badge&logo=angular&logoColor=dd0032)
-![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30) ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f) ![Swagger UI](https://img.shields.io/badge/swagger_ui-274200?style=for-the-badge&logo=swagger&logoColor=c7f200) ![Node.js Badge](https://img.shields.io/badge/node.js-2C3e18?style=for-the-badge&logo=node.js&logoColor=bCfeb8)
+![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f) 
+![Swagger UI](https://img.shields.io/badge/swagger_ui-274200?style=for-the-badge&logo=swagger&logoColor=c7f200)
 ![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-183945?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Redux / NgRx Badge](https://img.shields.io/badge/redux_/_ngrx-213A5b?style=for-the-badge&logo=redux&logoColor=61dafb) ![React Native Badge](https://img.shields.io/badge/react_native-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) ![Photoshop Badge](https://img.shields.io/badge/photoshop-1c3960?style=for-the-badge&logo=adobephotoshop&logoColor=2da9ff) ![Mantine Badge](https://img.shields.io/badge/mantine-13356f?style=for-the-badge&logo=mantine&logoColor=339bf0)
+![Redux / NgRx Badge](https://img.shields.io/badge/redux_/_ngrx-213A5b?style=for-the-badge&logo=redux&logoColor=61dafb) 
+![React Native Badge](https://img.shields.io/badge/react_native-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) 
 ![Vite Badge](https://img.shields.io/badge/vite-282080?style=for-the-badge&logo=vite&logoColor=a355fe)
-![.NET Badge](https://img.shields.io/badge/.net-372065?style=for-the-badge&logo=dotnet&logoColor=9780e5)
+![Markdown Badge](https://img.shields.io/badge/markdown-40434a?style=for-the-badge&logo=markdown&logoColor=fff)
+![Figma Badge](https://img.shields.io/badge/figma-40434a?style=for-the-badge&logo=figma&logoColor=fff)
 
-![Markdown Badge](https://img.shields.io/badge/markdown-40434a?style=for-the-badge&logo=markdown&logoColor=fff) ![Figma Badge](https://img.shields.io/badge/figma-40434a?style=for-the-badge&logo=figma&logoColor=fff)
+</div>
 
 <h3 align="center">
-🔤 Natural Languages 
-<br/>(Greatest-to-Least Proficiencies) 
+  🖥️ Backend Toolkit
 </h3>
+
 <div align="center">
 
-![English Badge](https://img.shields.io/badge/🇺🇸_English-a00f28?style=for-the-badge)
-![Japanese Badge](https://img.shields.io/badge/🇯🇵_Japanese-801848?style=for-the-badge)
-![Mandarin (Simplified) Badge](<https://img.shields.io/badge/🇨🇳_Mandarin_(Simplified)-601f68?style=for-the-badge>)<br/>
-![Mandarin (Traditional) Badge](<https://img.shields.io/badge/🇹🇼_Mandarin_(Traditional)-601f68?style=for-the-badge>)
-![Spanish Badge](https://img.shields.io/badge/🇪🇸_Spanish-402888?style=for-the-badge)
-![Korean Badge](https://img.shields.io/badge/🇰🇷_Korean-202890?style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/node.js-2C3e18?style=for-the-badge&logo=node.js&logoColor=bCfeb8)
+
+</div>
+
+<h3 align="center">
+  🛠️ DevOps Toolkit
+</h3>
+
+<div align="center">
+
+![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30)
+
+</div>
+
+<!-- Languages -->
+<h3 align="center">
+  🔤 Natural Languages 
+  <br/>(Greatest-to-Least Proficiencies) 
+</h3>
+
+<div align="center">
+
+  ![Spanish Badge](https://img.shields.io/badge/🇪🇸_Spanish-402888?style=for-the-badge)
+  ![English Badge](https://img.shields.io/badge/🇺🇸_English-a00f28?style=for-the-badge)
 
 </div>
 
@@ -109,17 +128,17 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
 <h3 align="center">
 
-<br />
+  <br />
+  ⏱️ Most Used Programming Languages
+  <br />(on GitHub@pjnalls)
 
-⏱️ Most Used Programming Languages
-<br />(on GitHub@pjnalls)
+  </h3>
 
-</h3>
 <div align="center">
 
-<br />
+  <br />
 
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,3f203f,160020&text_color=ffffff&hide_border=true&hide=css,html,javascript)](https://github.com/pjnalls)
+  [![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,3f203f,160020&text_color=ffffff&hide_border=true&hide=css,html,javascript)](https://github.com/pjnalls)
 
 </div>
 
@@ -153,7 +172,7 @@ Markdown + Hexadecimal Color Codes + HTML + Piskel and ❤️
 
 <br />
 
-Copyright © 2023, 2024 Preston Nalls
+Copyright © 2024 Marc Fernandez
 
 </footer>
 </span>
