@@ -19,6 +19,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 <!-- My projects -->
 <h2>
   <br/>
+
   **💼 My Projects**
 </h2>
 
@@ -49,6 +50,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 <!-- My skills -->
 <h2>
   <br />
+
   **🧮 My Skills**
 </h2>
 
@@ -60,9 +62,11 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 </h3>
 
 <div align="center">
+
   ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f)
   ![TypeScript Badge](https://img.shields.io/badge/typeScript-203f58?style=for-the-badge&logo=typescript&logoColor=209aec)
   ![PHP Badge](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=ffffff)
+
 </div>
 
 <!-- Frontend toolkit -->
@@ -71,6 +75,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 </h3>
 
 <div align="center">
+
   ![Angular Badge](https://img.shields.io/badge/angular-600012?style=for-the-badge&logo=angular&logoColor=dd0032) 
   ![RxJS Badge](https://img.shields.io/badge/rxjs-610425?style=for-the-badge&logo=reactivex&logoColor=e10988)
   ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f) 
@@ -81,6 +86,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
   ![Vite Badge](https://img.shields.io/badge/vite-282080?style=for-the-badge&logo=vite&logoColor=a355fe)
   ![Markdown Badge](https://img.shields.io/badge/markdown-40434a?style=for-the-badge&logo=markdown&logoColor=fff)
   ![Figma Badge](https://img.shields.io/badge/figma-40434a?style=for-the-badge&logo=figma&logoColor=fff)
+
 </div>
 
 <!-- Backend toolkit -->
@@ -89,7 +95,9 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 </h3>
 
 <div align="center">
+
   ![Node.js Badge](https://img.shields.io/badge/node.js-2C3e18?style=for-the-badge&logo=node.js&logoColor=bCfeb8)
+
 </div>
 
 <!-- DevOps toolkit -->
@@ -98,8 +106,10 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 </h3>
 
 <div align="center">
+
   ![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30)
   ![Docker Badge](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=ffffff)
+  
 </div>
 
 <!-- Languages -->
