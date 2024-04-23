@@ -6,7 +6,9 @@
 
 <!-- About me -->
 <h2>
+
   **🧑‍💻 About me**
+
 </h2>
 
 👨‍💻 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work and do extended amounts of yoga in my spare time.<br/>
@@ -65,7 +67,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
   ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f)
   ![TypeScript Badge](https://img.shields.io/badge/typeScript-203f58?style=for-the-badge&logo=typescript&logoColor=209aec)
-  ![PHP Badge](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=ffffff)
+  ![PHP Badge](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=000000)
 
 </div>
 
@@ -97,6 +99,9 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 <div align="center">
 
   ![Node.js Badge](https://img.shields.io/badge/node.js-2C3e18?style=for-the-badge&logo=node.js&logoColor=bCfeb8)
+  ![Express Badge](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=000000)
+  ![NestJS Badge](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=ffffff)
+  ![Fastify Badge](https://img.shields.io/badge/Fastify-ffffff?style=for-the-badge&logo=fastify&logoColor=000000)
 
 </div>
 
@@ -109,7 +114,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
   ![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30)
   ![Docker Badge](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=ffffff)
-  
+
 </div>
 
 <!-- Languages -->
