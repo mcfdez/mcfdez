@@ -127,6 +127,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
   ![Spanish Badge](https://img.shields.io/badge/🇪🇸_Spanish-402888?style=for-the-badge)
   ![English Badge](https://img.shields.io/badge/🇺🇸_English-a00f28?style=for-the-badge)
+  ![Basque Badge](https://img.shields.io/badge/eus_Basque-2b6b10?style=for-the-badge)
 
 </div>
 
