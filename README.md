@@ -11,12 +11,9 @@
 
 </h2>
 
-👨‍💻 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work and do extended amounts of yoga in my spare time.<br/>
-I primarily write code in either C# and TypeScript, and I can read in multiple natural languages.
+👋 Hello colleague! My name is Marc and I'm a 🚀 fullstack programmer with a solid experience in JavaScript-based technologies and a strong interest in the 🛠️ DevOps approach. I am passionate about working in teams and finding innovative solutions to technical challenges. I strongly believe in the importance of collaboration 🤝 and automation 🤖 to drive project success.
 
-🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount with advancements in technologies such as artificial general intelligence (AGI), metaverse-user experiences, etc.
-
-<div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
+Since the beginning of my career, I have embraced the philosophy that there is always room to grow. I am dedicated to constantly learning 📚 and improving my technical skills 💻 and understanding of development best practices. My goal is to contribute meaningfully to any project I am involved in and add value through my experience and enthusiasm. 🌟
 
 <!-- My projects -->
 <h2>
@@ -33,18 +30,8 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
 <div align="center">
   <div align="center">
-    <a href="https://pjnalls.github.io/assets/works/supermaterial/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
-    <a href="https://pjnalls.github.io/assets/works/digirain/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/digital-rain.avif" width="200px" /></a>
-    <a href="https://pjnalls.github.io/assets/works/global-bmi/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/bmi.avif" width="200px" /></a>
-    <a href="https://pjnalls.github.io/assets/works/modulart-01/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
+    <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="100px" /></a>
+    <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="100px" style="margin-left: 30px"/></a>
     <br/>
   </div>
 </div>
