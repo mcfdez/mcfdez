@@ -135,56 +135,27 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
 ---
 
+<!-- Most used languages -->
 <h3 align="center">
-
   <br />
   ⏱️ Most Used Programming Languages
   <br />(on GitHub@pjnalls)
-
-  </h3>
+</h3>
 
 <div align="center">
-
   <br />
 
   [![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,3f203f,160020&text_color=ffffff&hide_border=true&hide=css,html,javascript)](https://github.com/mcfdez)
-
 </div>
 
 <br />
 <br />
 
-<div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
-
-<br />
-<br />
-
+<!-- Footer -->
 <div align="center">
-
-<footer>
-
-<span>
-
-<i>made with</i>
-
-<h3>
-Markdown + Hexadecimal Color Codes + HTML + Piskel and ❤️
-
-<br />
-
-<a href="https://github.com/pjnalls/pjnalls/blob/main/ONELOVE.md"
-  target="_blank"
-  rel="noopener noreferrer">#onelove</a>
-🌏🌍🌎
-
-</h3>
-
-<br />
-
-Copyright © 2024 Marc Fernandez
-
-</footer>
-</span>
+  <footer>
+    Copyright © 2024 Marc Fernandez
+  </footer>
 </div>
 
 <br />
