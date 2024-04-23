@@ -114,6 +114,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
   ![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30)
   ![Docker Badge](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=ffffff)
+  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-303030?style=for-the-badge&logo=Kubernetes&logoColor=3371e3)
 
 </div>
 
