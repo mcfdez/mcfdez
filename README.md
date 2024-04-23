@@ -79,13 +79,13 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 <div align="center">
 
   ![Angular Badge](https://img.shields.io/badge/angular-600012?style=for-the-badge&logo=angular&logoColor=dd0032) 
+  ![React Badge](https://img.shields.io/badge/react-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) 
   ![RxJS Badge](https://img.shields.io/badge/rxjs-610425?style=for-the-badge&logo=reactivex&logoColor=e10988)
-  ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f) 
-  ![Swagger UI](https://img.shields.io/badge/swagger_ui-274200?style=for-the-badge&logo=swagger&logoColor=c7f200)
-  ![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-183945?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
   ![Redux / NgRx Badge](https://img.shields.io/badge/redux_/_ngrx-213A5b?style=for-the-badge&logo=redux&logoColor=61dafb) 
-  ![React Native Badge](https://img.shields.io/badge/react_native-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) 
+  ![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-183945?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+  ![Boostrap Badge](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
   ![Vite Badge](https://img.shields.io/badge/vite-282080?style=for-the-badge&logo=vite&logoColor=a355fe)
+  ![Jest Badge](https://img.shields.io/badge/Jest-bec3c9?style=for-the-badge&logo=jest&logoColor=c21325)
   ![Markdown Badge](https://img.shields.io/badge/markdown-40434a?style=for-the-badge&logo=markdown&logoColor=fff)
   ![Figma Badge](https://img.shields.io/badge/figma-40434a?style=for-the-badge&logo=figma&logoColor=fff)
 
