@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=48&pause=1000&color=F7E551&center=true&vCenter=true&random=false&width=940&height=96&lines=Hi%2C+I'm+Marc!+🙋" alt="Marc Fernandez" />
 </div>
 
 <h2>
