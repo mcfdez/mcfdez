@@ -147,7 +147,7 @@ I primarily write code in either C# and TypeScript, and I can read in multiple n
 
   <br />
 
-  [![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,3f203f,160020&text_color=ffffff&hide_border=true&hide=css,html,javascript)](https://github.com/pjnalls)
+  [![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,3f203f,160020&text_color=ffffff&hide_border=true&hide=css,html,javascript)](https://github.com/mcfdez)
 
 </div>
 
