@@ -11,7 +11,7 @@
 
 </h2>
 
-👋 Hello colleague! My name is Marc and I'm a 🚀 fullstack programmer with a solid experience in JavaScript-based technologies and a strong interest in the 🛠️ DevOps approach. I am passionate about working in teams and finding innovative solutions to technical challenges. I strongly believe in the importance of collaboration 🤝 and automation 🤖 to drive project success.
+👋 Hello colleague! My name is Marc and I'm a 🚀 fullstack developer with a solid experience in JavaScript-based technologies and a strong interest in the 🛠️ DevOps approach. I am passionate about working in teams and finding innovative solutions to technical challenges. I strongly believe in the importance of collaboration 🤝 and automation 🤖 to drive project success.
 
 Since the beginning of my career, I have embraced the philosophy that there is always room to grow. I am dedicated to constantly learning 📚 and improving my technical skills 💻 and understanding of development best practices. My goal is to contribute meaningfully to any project I am involved in and add value through my experience and enthusiasm. 🌟
 
