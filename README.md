@@ -31,7 +31,7 @@ Since the beginning of my career, I have embraced the philosophy that there is a
 <div align="center">
   <div align="center">
     <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="100px" /></a>
-    <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="100px" style="margin-left: 30px"/></a>
+    <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank" rel="noopener noreferrer" style="margin-left: 30px"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="100px"/></a>
     <br/>
   </div>
 </div>
@@ -127,7 +127,7 @@ Since the beginning of my career, I have embraced the philosophy that there is a
 <h3 align="center">
   <br />
   ⏱️ Most Used Programming Languages
-  <br />(on GitHub@pjnalls)
+  <br />(on GitHub@mcfdez)
 </h3>
 
 <div align="center">
