@@ -15,27 +15,6 @@
 
 Since the beginning of my career, I have embraced the philosophy that there is always room to grow. I am dedicated to constantly learning 📚 and improving my technical skills 💻 and understanding of development best practices. My goal is to contribute meaningfully to any project I am involved in and add value through my experience and enthusiasm. 🌟
 
-<!-- My projects -->
-<h2>
-  <br/>
-
-  **💼 My Projects**
-</h2>
-
-<br/>
-
-🖼️ Click an image below to view one of my live projects.
-
-<br />
-
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="100px" /></a>
-    <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank" rel="noopener noreferrer" style="margin-left: 30px"><img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="100px"/></a>
-    <br/>
-  </div>
-</div>
-
 <!-- My skills -->
 <h2>
   <br />
