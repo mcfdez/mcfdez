@@ -58,7 +58,7 @@ class SoftwareEngineer {
 </tr>
 </table>
 
----
+<br>
 
 ## 💼 Featured projects
 
@@ -96,6 +96,8 @@ class SoftwareEngineer {
 
 </div>
 
+<br>
+
 ## 🚀 Technology stack
 
 ### 🧬 Programming languages
@@ -130,6 +132,8 @@ class SoftwareEngineer {
 ![English](https://img.shields.io/badge/🇺🇸_English-Professional-blue?style=for-the-badge)
 ![Basque](https://img.shields.io/badge/🟢_Euskera-Conversational-green?style=for-the-badge)
 
+<br>
+
 ## 📊 GitHub statistics
 
 <div align="center">
@@ -154,6 +158,8 @@ class SoftwareEngineer {
 </picture>
 
 </div>
+
+<br>
 
 <div align="center">
   
