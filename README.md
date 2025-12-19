@@ -141,10 +141,10 @@ class SoftwareEngineer {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mcfdez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0,1a1b27,2d2e5f&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="GitHub Stats"/>
+<img src="https://github-stats.marcfl.dev/api?username=mcfdez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0,1a1b27,2d2e5f&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="GitHub stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=400&bg_color=0,1a1b27,2d2e5f&text_color=ffffff&hide_border=true&hide=css,html,javascript&layout=compact" alt="Top Languages"/>
+<img src="https://github-stats.marcfl.dev/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=400&bg_color=0,1a1b27,2d2e5f&text_color=ffffff&hide_border=true&hide=css,html,javascript&layout=compact" alt="Top languages"/>
 </td>
 </tr>
 </table>
@@ -174,7 +174,10 @@ class SoftwareEngineer {
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mcfdez&label=Visitas+al+perfil&color=61dafb&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mcfdez&label=Profile+views&color=61dafb&style=flat" alt="Profile views"/>
+
+<br>
+
 <p><i>💡 "The best code is the code you don't need to write, but when you do write it, write it well."</i></p>
 
 </div>
