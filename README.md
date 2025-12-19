@@ -25,35 +25,36 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
-      **💡 My philosophy**
-      > “Clean, well-structured code is not just an art, it's a professional responsibility.”
+  <td width="50%">
+  **💡 My philosophy**
 
-      🎯 **Main mocus:**
-      - ✨ **Software quality** - Clean Architecture & SOLID
-      - 🔄 **Continuous integration** - CI/CD and automation
-      - 🤝 **Teamwork** - Maintainable and testable code
-      - 🚀 **Constant innovation** - Always learning new technologies
-    </td>
-    <td width="50%">
-      **🛠️ What I do:**
+  > “Clean, well-structured code is not just an art, it's a professional responsibility.”
 
-      ```typescript
-      class SoftwareEngineer {
-        name = "Marc Fernández";
-        role = "Full Stack Developer";
-        
-        skills = {
-          frontend: ["React", "Angular", "TypeScript"],
-          backend: ["Node.js", "NestJS", "Express"],
-          devops: ["Docker", "Kubernetes", "CI/CD"],
-          architecture: ["Clean Architecture", "SOLID"]
-        };
-        
-        currentFocus = "Building scalable applications";
-      }
-      ```
-    </td>
+  🎯 **Main mocus:**
+  - ✨ **Software quality** - Clean Architecture & SOLID
+  - 🔄 **Continuous integration** - CI/CD and automation
+  - 🤝 **Teamwork** - Maintainable and testable code
+  - 🚀 **Constant innovation** - Always learning new technologies
+  </td>
+  <td width="50%">
+  **🛠️ What I do:**
+
+  ```typescript
+  class SoftwareEngineer {
+    name = "Marc Fernández";
+    role = "Full Stack Developer";
+    
+    skills = {
+      frontend: ["React", "Angular", "TypeScript"],
+      backend: ["Node.js", "NestJS", "Express"],
+      devops: ["Docker", "Kubernetes", "CI/CD"],
+      architecture: ["Clean Architecture", "SOLID"]
+    };
+    
+    currentFocus = "Building scalable applications";
+  }
+  ```
+  </td>
   </tr>
 </table>
 
