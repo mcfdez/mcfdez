@@ -20,44 +20,41 @@
   </div>
 </div>
 
+<!-- About me -->
 ## 🧑‍💻 About me
 
 <table align="center">
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%">
+      **💡 My philosophy**
+      > “Clean, well-structured code is not just an art, it's a professional responsibility.”
 
-**💡 My philosophy**
-> “Clean, well-structured code is not just an art, it's a professional responsibility.”
+      🎯 **Main mocus:**
+      - ✨ **Software quality** - Clean Architecture & SOLID
+      - 🔄 **Continuous integration** - CI/CD and automation
+      - 🤝 **Teamwork** - Maintainable and testable code
+      - 🚀 **Constant innovation** - Always learning new technologies
+    </td>
+    <td width="50%">
+      **🛠️ What I do:**
 
-🎯 **Main mocus:**
-- ✨ **Software quality** - Clean Architecture & SOLID
-- 🔄 **Continuous integration** - CI/CD and automation
-- 🤝 **Teamwork** - Maintainable and testable code
-- 🚀 **Constant innovation** - Always learning new technologies
-
-</td>
-<td width="50%">
-
-**🛠️ What I do:**
-
-```typescript
-class SoftwareEngineer {
-  name = "Marc Fernández";
-  role = "Full Stack Developer";
-  
-  skills = {
-    frontend: ["React", "Angular", "TypeScript"],
-    backend: ["Node.js", "NestJS", "Express"],
-    devops: ["Docker", "Kubernetes", "CI/CD"],
-    architecture: ["Clean Architecture", "SOLID"]
-  };
-  
-  currentFocus = "Building scalable applications";
-}
-```
-
-</td>
-</tr>
+      ```typescript
+      class SoftwareEngineer {
+        name = "Marc Fernández";
+        role = "Full Stack Developer";
+        
+        skills = {
+          frontend: ["React", "Angular", "TypeScript"],
+          backend: ["Node.js", "NestJS", "Express"],
+          devops: ["Docker", "Kubernetes", "CI/CD"],
+          architecture: ["Clean Architecture", "SOLID"]
+        };
+        
+        currentFocus = "Building scalable applications";
+      }
+      ```
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -65,37 +62,37 @@ class SoftwareEngineer {
 ## 💼 Featured projects
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/GitOpsLovers/nx-sass" target="_blank">
-<img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="80px" alt="NX Sass Plugin"/>
-<br><strong>🎨 NX Sass Plugin</strong>
-</a>
-<br>
-<sub>Plugin para Nx que facilita la integración con Sass</sub>
-<br>
-<img src="https://img.shields.io/github/stars/GitOpsLovers/nx-sass?style=social" alt="GitHub stars"/>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/GitOpsLovers/nx-biome" target="_blank">
-<img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="80px" alt="NX Biome Plugin"/>
-<br><strong>⚡ NX Biome Plugin</strong>
-</a>
-<br>
-<sub>Integración de Biome con Nx para mejor DX</sub>
-<br>
-<img src="https://img.shields.io/github/stars/GitOpsLovers/nx-biome?style=social" alt="GitHub stars"/>
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank">
+          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="80px" alt="NX Sass Plugin"/>
+          <br><strong>🎨 NX Sass Plugin</strong>
+        </a>
+        <br>
+        <sub>Plugin para Nx que facilita la integración con Sass</sub>
+        <br>
+        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-sass?style=social" alt="GitHub stars"/>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank">
+          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="80px" alt="NX Biome Plugin"/>
+          <br>
+          <strong>⚡ NX Biome Plugin</strong>
+        </a>
+        <br>
+        <sub>Integración de Biome con Nx para mejor DX</sub>
+        <br>
+        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-biome?style=social" alt="GitHub stars"/>
+      </td>
+    </tr>
+  </table>
 
-<p>
-<a href="https://github.com/mcfdez?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/Show_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Show more projects"/>
-</a>
-</p>
-
+  <p>
+    <a href="https://github.com/mcfdez?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Show_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Show more projects"/>
+    </a>
+  </p>
 </div>
 
 <br>
@@ -134,32 +131,35 @@ class SoftwareEngineer {
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <br><strong>AWS Certified Solutions Architect</strong>
+      <br>
+      <strong>AWS Certified Solutions Architect</strong>
       <br>
       <sub>Amazon Web Services · 2024</sub>
       <br>
       <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Ver_Credencial-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Ver credencial"/>
+        <img src="https://img.shields.io/badge/Ver_Credencial-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Ver credencial"/>
       </a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <br><strong>Certified Kubernetes Administrator</strong>
+      <br>
+      <strong>Certified Kubernetes Administrator</strong>
       <br>
       <sub>Cloud Native Computing Foundation · 2024</sub>
       <br>
       <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Ver_Credencial-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Ver credencial"/>
+        <img src="https://img.shields.io/badge/Ver_Credencial-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Ver credencial"/>
       </a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
-      <br><strong>Azure Developer Associate</strong>
+      <br>
+      <strong>Azure Developer Associate</strong>
       <br>
       <sub>Microsoft · 2023</sub>
       <br>
       <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Ver_Credencial-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Ver credencial"/>
+        <img src="https://img.shields.io/badge/Ver_Credencial-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Ver credencial"/>
       </a>
     </td>
   </tr>
@@ -176,23 +176,81 @@ class SoftwareEngineer {
 ## �📊 GitHub statistics
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-stats.marcfl.dev/api?username=mcfdez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0,1a1b27,2d2e5f&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="GitHub stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-stats.marcfl.dev/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=400&bg_color=0,1a1b27,2d2e5f&text_color=ffffff&hide_border=true&hide=css,html,javascript&layout=compact" alt="Top languages"/>
+      </td>
+    </tr>
+  </table>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+## 🎭 Plot twist: ¡No todo es código!
+
+<div align="center">
+
+```javascript
+const realMe = {
+  developer: true,
+  human: "also true! 🤯"
+};
+```
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-stats.marcfl.dev/api?username=mcfdez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0,1a1b27,2d2e5f&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="GitHub stats"/>
-</td>
-<td width="50%">
-<img src="https://github-stats.marcfl.dev/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=400&bg_color=0,1a1b27,2d2e5f&text_color=ffffff&hide_border=true&hide=css,html,javascript&layout=compact" alt="Top languages"/>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🍕</h3>
+      <strong>Pizza Master</strong>
+      <br><br>
+      <sub>Mis pizzas caseras podrían</sub>
+      <br>
+      <sub>competir con mis PRs...</sub>
+      <br>
+      <sub><i>bueno, casi 😅</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Skill_Level-Pizzaiolo_Wannabe-orange?style=flat-square" alt="Pizza skill"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏔️</h3>
+      <strong>Mountain Enthusiast</strong>
+      <br><br>
+      <sub>Debugging en el monte</sub>
+      <br>
+      <sub>es mi terapia favorita</sub>
+      <br>
+      <sub><i>WiFi opcional 📶❌</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Mode-Offline_&_Happy-green?style=flat-square" alt="Mountain mode"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌌</h3>
+      <strong>Space Docs Sleeper</strong>
+      <br><br>
+      <sub>Los documentales del espacio</sub>
+      <br>
+      <sub>son mi playlist para dormir</sub>
+      <br>
+      <sub><i>¡Lo juro! 😴🚀</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-Dreaming_About_Galaxies-blueviolet?style=flat-square" alt="Space dreams"/>
+    </td>
+  </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
-</picture>
+  <p>
+    <i>🎯 Work-life balance: escribir código limpio Y hacer pizzas perfectas</i>
+  </p>
 
 </div>
 
@@ -200,7 +258,7 @@ class SoftwareEngineer {
 
 <div align="center">
   
-### 💝 Did you like my profile? 
+## 💝 Did you like my profile? 
 
 <p>
   <a href="https://github.com/mcfdez">
