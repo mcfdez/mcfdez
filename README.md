@@ -90,7 +90,7 @@ class SoftwareEngineer {
 
 <p>
 <a href="https://github.com/mcfdez?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/Ver_Más_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver más proyectos"/>
+<img src="https://img.shields.io/badge/Show_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Show more projects"/>
 </a>
 </p>
 
@@ -167,7 +167,7 @@ class SoftwareEngineer {
   <a href="https://github.com/mcfdez">
     <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
   </a>
-  <a href="mailto:tu-email@example.com">
+  <a href="mailto:mcfdez87@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
 </p>
