@@ -98,113 +98,57 @@ class SoftwareEngineer {
 
 ---
 
-## 🚀 Technology stack
+## 🚀 Technology Stack
+
+### 🧬 Programming Languages
 
 <div align="center">
 
-### 🧬 Programming languages
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
-<br><strong>PHP</strong>
-</td>
-</tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Frontend development
+</div>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/>
-<br><strong>Angular</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React"/>
-<br><strong>React</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
-<br><strong>Tailwind</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="60" height="60" alt="Bootstrap"/>
-<br><strong>Bootstrap</strong>
-</td>
-</tr>
-</table>
+### 🎨 Frontend Development
 
-### ⚙️ Backend development
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
-<br><strong>Express.js</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="60" height="60" alt="NestJS"/>
-<br><strong>NestJS</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://www.vectorlogo.zone/logos/fastify/fastify-icon.svg" width="60" height="60" alt="Fastify"/>
-<br><strong>Fastify</strong>
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
+</div>
 
 ### 🛠️ DevOps & Tools
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
-<br><strong>Git</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes"/>
-<br><strong>Kubernetes</strong>
-</td>
-</tr>
-</table>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
 
 ### 🌍 Languages
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-🇪🇸 <strong>Español</strong><br>
-<sub>Nativo</sub>
-</td>
-<td align="center">
-🇺🇸 <strong>Inglés</strong><br>
-<sub>Profesional</sub>
-</td>
-<td align="center">
-<span style="color: #2b6b10;">🟢</span> <strong>Euskera</strong><br>
-<sub>Conversacional</sub>
-</td>
-</tr>
-</table>
-</div>
+
+![Spanish](https://img.shields.io/badge/🇪🇸_Español-Native-success?style=for-the-badge)
+![English](https://img.shields.io/badge/🇺🇸_English-Professional-blue?style=for-the-badge)
+![Basque](https://img.shields.io/badge/🟢_Euskera-Conversational-green?style=for-the-badge)
 
 </div>
 
