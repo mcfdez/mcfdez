@@ -165,10 +165,10 @@ class SoftwareEngineer {
 
 <p>
   <a href="https://github.com/mcfdez">
-    <img src="https://img.shields.io/badge/Sígueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
   </a>
   <a href="mailto:tu-email@example.com">
-    <img src="https://img.shields.io/badge/Contacta_Conmigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
 </p>
 
