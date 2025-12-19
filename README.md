@@ -15,7 +15,9 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Building+scalable+applications;Clean+Architecture+enthusiast;DevOps+%26+automation+lover;Always+learning+new+technologies" alt="Typing SVG" />
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+scalable+applications;Clean+Architecture+enthusiast;DevOps+%26+automation+lover;Always+learning+new+technologies" alt="Typing SVG" />
+  </div>
 </div>
 
 ## 🧑‍💻 About me
