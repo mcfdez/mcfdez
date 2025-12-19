@@ -4,13 +4,13 @@
   <h3>🚀 Full Stack Developer | 🏗️ Software Architect | ☁️ DevOps Engineer</h3>
   
   <p>
-    <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <a href="https://www.linkedin.com/in/marcfl" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:tu-email@example.com">
+    <a href="mailto:mcfdez87@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://tu-portfolio.com" target="_blank">
+    <a href="https://marcfl.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
@@ -63,8 +63,6 @@ class SoftwareEngineer {
 ## 💼 Featured projects
 
 <div align="center">
-
-### 🏗️ Open Source Tools and Libraries
 <table>
 <tr>
 <td align="center" width="50%">
@@ -110,17 +108,14 @@ class SoftwareEngineer {
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
 <br><strong>JavaScript</strong>
-<br><sub>ES6+ • Moderno • Funcional</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
 <br><strong>TypeScript</strong>
-<br><sub>Tipado estático • Escalable</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
 <br><strong>PHP</strong>
-<br><sub>Backend • APIs • Legacy</sub>
 </td>
 </tr>
 </table>
@@ -132,22 +127,18 @@ class SoftwareEngineer {
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/>
 <br><strong>Angular</strong>
-<br><sub>Enterprise • RxJS</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React"/>
 <br><strong>React</strong>
-<br><sub>Hooks • Context</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
-<br><strong>Tailwind CSS</strong>
-<br><sub>Utility-first</sub>
+<br><strong>Tailwind</strong>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="60" height="60" alt="Bootstrap"/>
 <br><strong>Bootstrap</strong>
-<br><sub>Responsive</sub>
 </td>
 </tr>
 </table>
@@ -159,22 +150,18 @@ class SoftwareEngineer {
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
 <br><strong>Node.js</strong>
-<br><sub>Runtime • V8</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
 <br><strong>Express.js</strong>
-<br><sub>Minimalista</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="60" height="60" alt="NestJS"/>
 <br><strong>NestJS</strong>
-<br><sub>Decorators • DI</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://www.vectorlogo.zone/logos/fastify/fastify-icon.svg" width="60" height="60" alt="Fastify"/>
 <br><strong>Fastify</strong>
-<br><sub>Performance</sub>
 </td>
 </tr>
 </table>
@@ -186,17 +173,14 @@ class SoftwareEngineer {
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
 <br><strong>Git</strong>
-<br><sub>Version control</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
 <br><strong>Docker</strong>
-<br><sub>Containerización</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes"/>
 <br><strong>Kubernetes</strong>
-<br><sub>Orquestación</sub>
 </td>
 </tr>
 </table>
@@ -226,7 +210,7 @@ class SoftwareEngineer {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub statistics
 
 <div align="center">
 
@@ -259,15 +243,14 @@ class SoftwareEngineer {
 
 <p>
   <a href="https://github.com/mcfdez">
-    <img src="https://img.shields.io/badge/Sígueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sígueme en GitHub"/>
+    <img src="https://img.shields.io/badge/Sígueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
   </a>
   <a href="mailto:tu-email@example.com">
-    <img src="https://img.shields.io/badge/Contacta_Conmigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacta conmigo"/>
+    <img src="https://img.shields.io/badge/Contacta_Conmigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mcfdez&label=Visitas+al+perfil&color=61dafb&style=flat" alt="Contador de visitas"/>
-
+<img src="https://komarev.com/ghpvc/?username=mcfdez&label=Visitas+al+perfil&color=61dafb&style=flat" alt="Profile views"/>
 <p><i>💡 "The best code is the code you don't need to write, but when you do write it, write it well."</i></p>
 
 </div>
