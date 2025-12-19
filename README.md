@@ -149,8 +149,6 @@ class SoftwareEngineer {
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcfdez&theme=tokyonight&hide_border=true&background=1a1b27&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
