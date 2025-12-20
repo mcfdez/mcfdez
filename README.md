@@ -39,6 +39,7 @@
   </td>
   
   <td width="50%">
+  
   **🛠️ What I do:**
 
   ```typescript
