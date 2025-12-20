@@ -23,43 +23,38 @@
 <!-- About me -->
 ## 🧑‍💻 About me
 
-<table align="center">
-  <tr>
-  <td width="50%">
+<div align="center">
+
+### 💡 My philosophy
+
+> *Clean, well-structured code is not just an art, it's a professional responsibility.*
+
+</div>
+
+<br>
+
+```typescript
+const marcFernandez = {
+  name: "Marc Fernández",
+  role: "Full Stack Developer",
   
-  **💡 My philosophy**
-
-  > Clean, well-structured code is not just an art, it's a professional responsibility.
-
-  🎯 **Main mocus:**
-  - ✨ **Software quality** - Clean Architecture & SOLID
-  - 🔄 **Continuous integration** - CI/CD and automation
-  - 🤝 **Teamwork** - Maintainable and testable code
-  - 🚀 **Constant innovation** - Always learning new technologies
-  </td>
+  skills: {
+    frontend: ["React", "Angular", "TypeScript"],
+    backend: ["Node.js", "NestJS", "Express"],
+    devops: ["Docker", "Kubernetes", "CI/CD"],
+    architecture: ["Clean Architecture", "SOLID"]
+  },
   
-  <td width="50%">
-
-  **🛠️ What I do:**
-
-  ```typescript
-  class SoftwareEngineer {
-    name = "Marc Fernández";
-    role = "Full Stack Developer";
-    
-    skills = {
-      frontend: ["React", "Angular", "TypeScript"],
-      backend: ["Node.js", "NestJS", "Express"],
-      devops: ["Docker", "Kubernetes", "CI/CD"],
-      architecture: ["Clean Architecture", "SOLID"]
-    };
-    
-    currentFocus = "Building scalable applications";
-  }
-  ```
-  </td>
-  </tr>
-</table>
+  focus: [
+    "✨ Software quality - Clean Architecture & SOLID",
+    "🔄 Continuous integration - CI/CD and automation",
+    "🤝 Teamwork - Maintainable and testable code",
+    "🚀 Constant innovation - Always learning new technologies"
+  ],
+  
+  currentFocus: "Building scalable applications"
+};
+```
 
 <br>
 
