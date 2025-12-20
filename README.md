@@ -23,18 +23,14 @@
 <!-- About me -->
 ## 🧑‍💻 About me
 
-<div align="center">
-
 ### 💡 My philosophy
 
 > *Clean, well-structured code is not just an art, it's a professional responsibility.*
 
-</div>
-
 <br>
 
 ```typescript
-const marcFernandez = {
+const aboutMe = {
   name: "Marc Fernández",
   role: "Full Stack Developer",
   
