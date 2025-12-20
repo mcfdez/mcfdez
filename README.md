@@ -261,9 +261,8 @@ const realMe = {
   <a href="mailto:mcfdez87@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mcfdez&label=Profile+views&color=61dafb&style=flat" alt="Profile views"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=mcfdez&label=Profile+views&color=61dafb&style=flat" alt="Profile views"/>
 
 <br>
 
