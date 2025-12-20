@@ -84,17 +84,7 @@ const aboutMe = {
 
 ### 📜 Certifications
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Introduction_to_Linux-LFS101-FCC624?style=for-the-badge&logoColor=black" alt="LFS101"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Linux_Foundation-2024-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Foundation"/>
-      <br>
-      <sub><i>Building expertise in Linux systems and open source technologies</i></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Introduction_to_Linux-LFS101-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
 
 ### 🌍 Languages
 
