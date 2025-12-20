@@ -123,21 +123,17 @@ const aboutMe = {
 ### 📜 Certifications
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation"/>
-        <br>
-        <strong>Introduction to Linux – LFS101</strong>
-        <br>
-        <sub>Linux Foundation · 2024</sub>
-        <br>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Credencial-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Ver credencial"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+[![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
+
+**Introduction to Linux – LFS101**
+
+*Linux Foundation • 2024*
+
+---
+
+*🎓 Building expertise in Linux systems and open source technologies*
+
 </div>
 
 ### 🌍 Languages
