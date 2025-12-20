@@ -52,44 +52,6 @@ const aboutMe = {
 
 <br>
 
-## 💼 Featured projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank">
-          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="80px" alt="NX Sass Plugin"/>
-          <br><strong>🎨 NX Sass Plugin</strong>
-        </a>
-        <br>
-        <sub>Plugin para Nx que facilita la integración con Sass</sub>
-        <br>
-        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-sass?style=social" alt="GitHub stars"/>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank">
-          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="80px" alt="NX Biome Plugin"/>
-          <br>
-          <strong>⚡ NX Biome Plugin</strong>
-        </a>
-        <br>
-        <sub>Integración de Biome con Nx para mejor DX</sub>
-        <br>
-        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-biome?style=social" alt="GitHub stars"/>
-      </td>
-    </tr>
-  </table>
-
-  <p>
-    <a href="https://github.com/mcfdez?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/Show_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Show more projects"/>
-    </a>
-  </p>
-</div>
-
-<br>
-
 ## 🧠 My skills
 
 ### 🧬 Programming languages
@@ -141,6 +103,44 @@ const aboutMe = {
 ![Spanish](https://img.shields.io/badge/🇪🇸_Español-Native-success?style=for-the-badge)
 ![English](https://img.shields.io/badge/🇺🇸_English-Professional-blue?style=for-the-badge)
 ![Basque](https://img.shields.io/badge/🟢_Euskera-Conversational-green?style=for-the-badge)
+
+<br>
+
+## 💼 Featured projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank">
+          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="80px" alt="NX Sass Plugin"/>
+          <br><strong>🎨 NX Sass Plugin</strong>
+        </a>
+        <br>
+        <sub>Plugin para Nx que facilita la integración con Sass</sub>
+        <br>
+        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-sass?style=social" alt="GitHub stars"/>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/GitOpsLovers/nx-biome" target="_blank">
+          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="80px" alt="NX Biome Plugin"/>
+          <br>
+          <strong>⚡ NX Biome Plugin</strong>
+        </a>
+        <br>
+        <sub>Integración de Biome con Nx para mejor DX</sub>
+        <br>
+        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-biome?style=social" alt="GitHub stars"/>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <a href="https://github.com/mcfdez?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Show_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Show more projects"/>
+    </a>
+  </p>
+</div>
 
 <br>
 
