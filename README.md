@@ -86,8 +86,8 @@ const aboutMe = {
 
 <table>
   <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/🎓_Introduction_to_Linux-LFS101-FCC624?style=for-the-badge&logoColor=black" alt="LFS101"/>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Introduction_to_Linux-LFS101-FCC624?style=for-the-badge&logoColor=black" alt="LFS101"/>
       <br><br>
       <img src="https://img.shields.io/badge/Linux_Foundation-2024-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Foundation"/>
       <br>
