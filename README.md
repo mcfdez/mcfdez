@@ -122,43 +122,23 @@ const aboutMe = {
 
 ### 📜 Certifications
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <br>
-      <strong>AWS Certified Solutions Architect</strong>
-      <br>
-      <sub>Amazon Web Services · 2024</sub>
-      <br>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Credencial-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Ver credencial"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <br>
-      <strong>Certified Kubernetes Administrator</strong>
-      <br>
-      <sub>Cloud Native Computing Foundation · 2024</sub>
-      <br>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Credencial-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Ver credencial"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
-      <br>
-      <strong>Azure Developer Associate</strong>
-      <br>
-      <sub>Microsoft · 2023</sub>
-      <br>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Credencial-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Ver credencial"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation"/>
+        <br>
+        <strong>Introduction to Linux – LFS101</strong>
+        <br>
+        <sub>Linux Foundation · 2024</sub>
+        <br>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Credencial-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Ver credencial"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🌍 Languages
 
