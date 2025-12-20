@@ -193,24 +193,24 @@ const aboutMe = {
 ## 🎭 It's not all about code!
 
 ```typescript
-const personalLife = {
+const whoIAm = {
   developer: true,
   human: "also true! 😄",
   
   hobbies: {
-    "🍕 Pizza Master": {
-      description: "Mis pizzas caseras podrían competir con mis PRs...",
-      reality: "bueno, casi 😅",
+    pizzaMaster: {
+      description: "My homemade pizzas could compete with my PRs... 🍕",
+      reality: "well, almost 😅",
       skillLevel: "Pizzaiolo Wannabe"
     },
-    "🏔️ Mountain Enthusiast": {
-      description: "Debugging en el monte es mi terapia favorita",
-      wifi: "opcional 📶❌",
+    mountainEnthusiast: {
+      description: "Debugging in the mountains is my favorite therapy 🏔️",
+      wifi: "optional 📶❌",
       mode: "Offline & Happy"
     },
-    "🌌 Space Docs Sleeper": {
-      description: "Los documentales del espacio son mi playlist para dormir",
-      confession: "¡Lo juro! 😴🚀",
+    spaceDocsSleeper: {
+      description: "Space documentaries are my playlist for sleeping 🌌",
+      confession: "I swear! 😴🚀",
       status: "Dreaming About Galaxies"
     }
   },
