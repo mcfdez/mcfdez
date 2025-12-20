@@ -23,9 +23,7 @@
 <!-- About me -->
 ## 🧑‍💻 About me
 
-### 💡 My philosophy
-
-> *Clean, well-structured code is not just an art, it's a professional responsibility.*
+> 💡 *Clean, well-structured code is not just an art, it's a professional responsibility.*
 
 <br>
 
