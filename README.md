@@ -192,14 +192,14 @@ const aboutMe = {
 
 ## 🎭 Plot twist: ¡No todo es código!
 
-<div align="center">
-
-```javascript
+```typescript
 const realMe = {
   developer: true,
-  human: "also true! 🤯"
+  human: "also true! 😄"
 };
 ```
+
+<div align="center">
 
 <table>
   <tr>
