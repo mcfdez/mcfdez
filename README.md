@@ -5,13 +5,13 @@
   
   <p>
     <a href="https://www.linkedin.com/in/marcfl" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&logoWidth=20" alt="LinkedIn"/>
     </a>
     <a href="mailto:mcfdez87@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://marcfl.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 
