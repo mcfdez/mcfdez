@@ -100,9 +100,9 @@ const aboutMe = {
 
 ### 🌍 Languages
 
-![Spanish](https://img.shields.io/badge/🇪🇸_Español-Native-success?style=for-the-badge)
-![English](https://img.shields.io/badge/🇺🇸_English-Professional-blue?style=for-the-badge)
-![Basque](https://img.shields.io/badge/🟢_Euskera-Conversational-green?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Español-Native-success?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional-blue?style=for-the-badge)
+![Basque](https://img.shields.io/badge/Euskera-Conversational-green?style=for-the-badge)
 
 <br>
 
