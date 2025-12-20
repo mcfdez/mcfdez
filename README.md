@@ -254,8 +254,6 @@ const realMe = {
   
 ## 💝 Did you like my profile? 
 
-<div align="center">
-
 <p>
   <a href="https://github.com/mcfdez">
     <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
@@ -269,8 +267,6 @@ const realMe = {
 
 <br>
 
-<p><i>💡 "The best code is the code you don't need to write, but when you do write it, write it well."</i></p>
-
-</div>
+> 💡 *The best code is the code you don't need to write, but when you do write it, write it well.*
 
 ![sss](https://hit.yhype.me/github/profile?account_id=8833955)
