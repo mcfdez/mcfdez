@@ -39,7 +39,7 @@
   </td>
   
   <td width="50%">
-  
+
   **🛠️ What I do:**
 
   ```typescript
@@ -260,9 +260,11 @@ const realMe = {
 
 <br>
 
-<div align="center">
+
   
 ## 💝 Did you like my profile? 
+
+<div align="center">
 
 <p>
   <a href="https://github.com/mcfdez">
