@@ -26,9 +26,10 @@
 <table align="center">
   <tr>
   <td width="50%">
+  
   **💡 My philosophy**
 
-  > “Clean, well-structured code is not just an art, it's a professional responsibility.”
+  > Clean, well-structured code is not just an art, it's a professional responsibility.
 
   🎯 **Main mocus:**
   - ✨ **Software quality** - Clean Architecture & SOLID
@@ -36,6 +37,7 @@
   - 🤝 **Teamwork** - Maintainable and testable code
   - 🚀 **Constant innovation** - Always learning new technologies
   </td>
+  
   <td width="50%">
   **🛠️ What I do:**
 
