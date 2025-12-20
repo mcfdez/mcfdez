@@ -190,67 +190,36 @@ const aboutMe = {
 
 <br>
 
-## 🎭 Plot twist: ¡No todo es código!
+## 🎭 It's not all about code!
 
 ```typescript
-const realMe = {
+const personalLife = {
   developer: true,
-  human: "also true! 😄"
+  human: "also true! 😄",
+  
+  hobbies: {
+    "🍕 Pizza Master": {
+      description: "Mis pizzas caseras podrían competir con mis PRs...",
+      reality: "bueno, casi 😅",
+      skillLevel: "Pizzaiolo Wannabe"
+    },
+    "🏔️ Mountain Enthusiast": {
+      description: "Debugging en el monte es mi terapia favorita",
+      wifi: "opcional 📶❌",
+      mode: "Offline & Happy"
+    },
+    "🌌 Space Docs Sleeper": {
+      description: "Los documentales del espacio son mi playlist para dormir",
+      confession: "¡Lo juro! 😴🚀",
+      status: "Dreaming About Galaxies"
+    }
+  },
+  
+  motto: "Work-life balance: escribir código limpio Y hacer pizzas perfectas"
 };
 ```
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🍕</h3>
-      <strong>Pizza Master</strong>
-      <br><br>
-      <sub>Mis pizzas caseras podrían</sub>
-      <br>
-      <sub>competir con mis PRs...</sub>
-      <br>
-      <sub><i>bueno, casi 😅</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Skill_Level-Pizzaiolo_Wannabe-orange?style=flat-square" alt="Pizza skill"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏔️</h3>
-      <strong>Mountain Enthusiast</strong>
-      <br><br>
-      <sub>Debugging en el monte</sub>
-      <br>
-      <sub>es mi terapia favorita</sub>
-      <br>
-      <sub><i>WiFi opcional 📶❌</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Mode-Offline_&_Happy-green?style=flat-square" alt="Mountain mode"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>🌌</h3>
-      <strong>Space Docs Sleeper</strong>
-      <br><br>
-      <sub>Los documentales del espacio</sub>
-      <br>
-      <sub>son mi playlist para dormir</sub>
-      <br>
-      <sub><i>¡Lo juro! 😴🚀</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Status-Dreaming_About_Galaxies-blueviolet?style=flat-square" alt="Space dreams"/>
-    </td>
-  </tr>
-</table>
-
-  <p>
-    <i>🎯 Work-life balance: escribir código limpio Y hacer pizzas perfectas</i>
-  </p>
-
-</div>
-
 <br>
-
-
   
 ## 💝 Did you like my profile? 
 
