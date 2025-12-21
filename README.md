@@ -194,7 +194,7 @@ const whoIAm = {
 ```
 <div align="center">
 
-  <table width="80%">
+  <table width="600px">
     <tr>
       <td align="center">
         <h3>🤝 <strong>Let's work together</strong></h3>
