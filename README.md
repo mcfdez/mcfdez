@@ -186,31 +186,39 @@ const whoIAm = {
 
 <br>
   
-## 🤝 Let's build something amazing together!
+## 🚀 Ready to build the next big thing?
 
 <div align="center">
-  
-### ✨ ¿Tienes una idea? ¡Vamos a hacerla realidad!
 
-```
-🚀 ¿Necesitas ayuda con un proyecto?
-💡 ¿Quieres colaborar en algo increíble?  
-☕ ¿O simplemente charlar sobre tecnología?
+```diff
++ 💡 Tu próximo proyecto podría cambiar el mundo
++ 🔥 ¿Y si lo construimos juntos?
 ```
 
-> *Siempre estoy abierto a nuevas oportunidades y conversaciones interesantes*
+<table>
+<tr>
+<td align="center">
+<h3>🤝 <strong>COLABOREMOS</strong></h3>
+<p><em>¿Tienes una idea disruptiva?<br>Hagámosla realidad</em></p>
+<a href="mailto:mcfdez87@gmail.com?subject=¡Tengo%20una%20idea%20increíble!&body=Hola%20Marc,%0A%0ATengo%20una%20idea%20que%20me%20gustaría%20discutir%20contigo...">
+<img src="https://img.shields.io/badge/💌_CUÉNTAME_TU_IDEA-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Cuéntame tu idea"/>
+</a>
+</td>
+<td align="center">
+<h3>🚀 <strong>CONTRATAME</strong></h3>
+<p><em>¿Necesitas un dev senior<br>para tu equipo?</em></p>
+<a href="mailto:mcfdez87@gmail.com?subject=Oportunidad%20laboral&body=Hola%20Marc,%0A%0ATenemos%20una%20oportunidad%20que%20podría%20interesarte...">
+<img src="https://img.shields.io/badge/💼_HABLEMOS_DE_TRABAJO-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hablemos de trabajo"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 🎯 **¿Solo quieres charlar sobre tech?**
+[![Café Virtual](https://img.shields.io/badge/☕_TOMEMOS_UN_CAFÉ_VIRTUAL-8B5A3C?style=for-the-badge&logo=coffeescript&logoColor=white)](mailto:mcfdez87@gmail.com?subject=¡Charlemos%20sobre%20tecnología!&body=¡Hola%20Marc!%0A%0AMe%20gustaría%20charlar%20sobre...)
 
 ---
-
-**¡Hablemos!**
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcfl)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://marcfl.dev)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcfdez87@gmail.com)
-
----
-
-*📨 Respondo rápido y siempre con una sonrisa* 😊
+*✨ Cada gran proyecto empezó con una simple conversación*
 
 </div>
 
