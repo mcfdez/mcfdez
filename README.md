@@ -103,7 +103,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
     <tr>
       <td align="center" width="33%">
         <a href="https://www.massimodutti.com" target="_blank">
-          <img src="./assets/dutti_logo.jpg" height="80px" alt="NX Sass Plugin"/>
+          <img src="./assets/dutti_logo.jpg" height="120px" alt="Massimo Dutti Ecommerce"/>
           <br><strong>Massimo Dutti Ecommerce</strong>
         </a>
         <br>
@@ -112,7 +112,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
       </td>
       <td align="center" width="33%">
         <a href="https://octolab.dev" target="_blank">
-          <img src="./assets/octolab_logo.jpg" height="80px" alt="NX Biome Plugin"/>
+          <img src="./assets/octolab_logo.jpg" height="120px" alt="OctoLab"/>
           <br>
           <strong>OctoLab</strong>
         </a>
@@ -122,7 +122,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
       </td>
       <td align="center" width="33%">
         <a href="https://www.pullreviewer.com" target="_blank">
-          <img src="./assets/pullreviewer_logo.jpg" height="80px" alt="NX Sass Plugin"/>
+          <img src="./assets/pullreviewer_logo.jpg" height="120px" alt="Pull Reviewer"/>
           <br><strong>Pull Reviewer</strong>
         </a>
         <br>
