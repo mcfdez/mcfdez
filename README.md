@@ -199,15 +199,15 @@ const whoIAm = {
       <td align="center">
         <h3>🤝 <strong>Let's work together</strong></h3>
         <p><em>Do you have a disruptive idea?<br>Let's make it happen</em></p>
-        <a href="mailto:mcfdez87@gmail.com?subject=I%20have%20an%20amazing%20idea!&body=Hello%20Marc,%0A%0AI%20have%20an%20idea%20that%20I%20would%20like%20to%20discuss%20with%20you...">
-          <img src="https://img.shields.io/badge/💌_TELL_ME_YOUR_IDEA-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Tell me your idea"/>
+        <a href="mailto:mcfdez87@gmail.com">
+          <img src="https://img.shields.io/badge/TELL_ME_YOUR_IDEA-FF6B6B?style=for-the-badge&logo=lightBulb&logoColor=white" alt="Tell me your idea"/>
         </a>
       </td>
       <td align="center">
         <h3>🚀 <strong>Hire me</strong></h3>
         <p><em>Do you need a senior dev<br>for your team?</em></p>
         <a href="mailto:mcfdez87@gmail.com?subject=Job%20Opportunity&body=Hello%20Marc,%0A%0AWe%20have%20an%20opportunity%20that%20might%20interest%20you...">
-          <img src="https://img.shields.io/badge/💼_LET'S_TALK_WORK-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Let's talk work"/>
+          <img src="https://img.shields.io/badge/💼_LET'S_TALK_WORK-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Let's talk about work"/>
         </a>
       </td>
     </tr>
