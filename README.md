@@ -132,7 +132,7 @@ const aboutMe = {
 
 <br>
 
-## �📊 GitHub statistics
+## 📊 GitHub statistics
 
 <div align="center">
   <table>
@@ -186,17 +186,33 @@ const whoIAm = {
 
 <br>
   
-## 💝 Did you like my profile? 
+## 🤝 Let's build something amazing together!
 
-<p>
-  <a href="https://github.com/mcfdez">
-    <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
-  </a>
-  <a href="mailto:mcfdez87@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mcfdez&label=Profile+views&color=61dafb&style=flat" alt="Profile views"/>
-</p>
+<div align="center">
+  
+### ✨ ¿Tienes una idea? ¡Vamos a hacerla realidad!
+
+```
+🚀 ¿Necesitas ayuda con un proyecto?
+💡 ¿Quieres colaborar en algo increíble?  
+☕ ¿O simplemente charlar sobre tecnología?
+```
+
+> *Siempre estoy abierto a nuevas oportunidades y conversaciones interesantes*
+
+---
+
+**¡Hablemos!**
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcfl)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://marcfl.dev)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcfdez87@gmail.com)
+
+---
+
+*📨 Respondo rápido y siempre con una sonrisa* 😊
+
+</div>
 
 <br>
 
