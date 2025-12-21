@@ -200,7 +200,7 @@ const whoIAm = {
         <h3>🤝 <strong>Let's work together</strong></h3>
         <p><em>Do you have a disruptive idea?<br>Let's make it happen</em></p>
         <a href="mailto:mcfdez87@gmail.com">
-          <img src="https://img.shields.io/badge/TELL_ME_YOUR_IDEA-FF6B6B?style=for-the-badge&logo=lightBulb&logoColor=white" alt="Tell me your idea"/>
+          <img src="https://img.shields.io/badge/TELL_ME_YOUR_IDEA-FF6B6B?style=for-the-badge&logo=light-bulb&logoColor=white" alt="Tell me your idea"/>
         </a>
       </td>
       <td align="center">
