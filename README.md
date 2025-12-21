@@ -109,7 +109,6 @@ During my career, I have developed dozens and dozens of projects, but here I wil
         <br>
         <sub>Development and maintenance of the code and infrastructure for Inditex's e-commerce platform.</sub>
         <br>
-        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-sass?style=social" alt="GitHub stars"/>
       </td>
       <td align="center" width="33%">
         <a href="https://octolab.dev" target="_blank">
@@ -120,7 +119,6 @@ During my career, I have developed dozens and dozens of projects, but here I wil
         <br>
         <sub>SaaS platform for creating and managing GitHub workflows intuitively through a user-friendly interface.</sub>
         <br>
-        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-biome?style=social" alt="GitHub stars"/>
       </td>
       <td align="center" width="33%">
         <a href="https://www.pullreviewer.com" target="_blank">
@@ -130,7 +128,6 @@ During my career, I have developed dozens and dozens of projects, but here I wil
         <br>
         <sub>SaaS platform for implementing Pull Request review systems in a semantic and declarative manner.</sub>
         <br>
-        <img src="https://img.shields.io/github/stars/GitOpsLovers/nx-sass?style=social" alt="GitHub stars"/>
       </td>
     </tr>
   </table>
