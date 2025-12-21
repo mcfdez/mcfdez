@@ -195,29 +195,23 @@ const whoIAm = {
 <div align="center">
 
   <table>
-  <tr>
-  <td align="center">
-  <h3>🤝 <strong>COLABOREMOS</strong></h3>
-  <p><em>¿Tienes una idea disruptiva?<br>Hagámosla realidad</em></p>
-  <a href="mailto:mcfdez87@gmail.com?subject=¡Tengo%20una%20idea%20increíble!&body=Hola%20Marc,%0A%0ATengo%20una%20idea%20que%20me%20gustaría%20discutir%20contigo...">
-  <img src="https://img.shields.io/badge/💌_CUÉNTAME_TU_IDEA-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Cuéntame tu idea"/>
-  </a>
-  </td>
-  <td align="center">
-  <h3>🚀 <strong>CONTRATAME</strong></h3>
-  <p><em>¿Necesitas un dev senior<br>para tu equipo?</em></p>
-  <a href="mailto:mcfdez87@gmail.com?subject=Oportunidad%20laboral&body=Hola%20Marc,%0A%0ATenemos%20una%20oportunidad%20que%20podría%20interesarte...">
-  <img src="https://img.shields.io/badge/💼_HABLEMOS_DE_TRABAJO-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hablemos de trabajo"/>
-  </a>
-  </td>
-  </tr>
+    <tr>
+      <td align="center">
+        <h3>🤝 <strong>Let's work together</strong></h3>
+        <p><em>Do you have a disruptive idea?<br>Let's make it happen</em></p>
+        <a href="mailto:mcfdez87@gmail.com?subject=I%20have%20an%20amazing%20idea!&body=Hello%20Marc,%0A%0AI%20have%20an%20idea%20that%20I%20would%20like%20to%20discuss%20with%20you...">
+          <img src="https://img.shields.io/badge/💌_TELL_ME_YOUR_IDEA-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Tell me your idea"/>
+        </a>
+      </td>
+      <td align="center">
+        <h3>🚀 <strong>Hire me</strong></h3>
+        <p><em>Do you need a senior dev<br>for your team?</em></p>
+        <a href="mailto:mcfdez87@gmail.com?subject=Job%20Opportunity&body=Hello%20Marc,%0A%0AWe%20have%20an%20opportunity%20that%20might%20interest%20you...">
+          <img src="https://img.shields.io/badge/💼_LET'S_TALK_WORK-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Let's talk work"/>
+        </a>
+      </td>
+    </tr>
   </table>
-
-  ### 🎯 **¿Solo quieres charlar sobre tech?**
-  [![Café Virtual](https://img.shields.io/badge/☕_TOMEMOS_UN_CAFÉ_VIRTUAL-8B5A3C?style=for-the-badge&logo=coffeescript&logoColor=white)](mailto:mcfdez87@gmail.com?subject=¡Charlemos%20sobre%20tecnología!&body=¡Hola%20Marc!%0A%0AMe%20gustaría%20charlar%20sobre...)
-
-  ---
-  *✨ Cada gran proyecto empezó con una simple conversación*
 
 </div>
 
