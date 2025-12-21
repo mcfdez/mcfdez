@@ -106,7 +106,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
           <img src="./assets/dutti_logo.jpg" height="120px" alt="Massimo Dutti Ecommerce"/>
           <br><strong>Massimo Dutti Ecommerce</strong>
         </a>
-        <br>
+        <br><br>
         Development and maintenance of the code and infrastructure for Inditex's e-commerce platform.
         <br>
       </td>
@@ -116,7 +116,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
           <br>
           <strong>OctoLab</strong>
         </a>
-        <br>
+        <br><br>
         SaaS platform for creating and managing GitHub workflows intuitively through a user-friendly interface.
         <br>
       </td>
@@ -125,7 +125,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
           <img src="./assets/pullreviewer_logo.jpg" height="120px" alt="Pull Reviewer"/>
           <br><strong>Pull Reviewer</strong>
         </a>
-        <br>
+        <br><br>
         SaaS platform for implementing Pull Request review systems in a semantic and declarative manner.
         <br>
       </td>
