@@ -206,8 +206,8 @@ const whoIAm = {
       <td align="center">
         <h3>🚀 <strong>Hire me</strong></h3>
         <p><em>Do you need a senior dev<br>for your team?</em></p>
-        <a href="mailto:mcfdez87@gmail.com?subject=Job%20Opportunity&body=Hello%20Marc,%0A%0AWe%20have%20an%20opportunity%20that%20might%20interest%20you...">
-          <img src="https://img.shields.io/badge/💼_LET'S_TALK_WORK-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Let's talk about work"/>
+        <a href="mailto:mcfdez87@gmail.com">
+          <img src="https://custom-icon-badges.demolab.com/badge/LET'S_TALK_ABOUT_WORK-4ECDC4?style=for-the-badge&logo=comment-discussion&logoColor=white" alt="Let's talk about work"/>
         </a>
       </td>
     </tr>
