@@ -96,13 +96,15 @@ const aboutMe = {
 
 ## 💼 Featured projects
 
+During my career, I have developed dozens and dozens of projects, but here I will highlight the most recent and important ones I have worked on.
+
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/GitOpsLovers/nx-sass" target="_blank">
           <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="80px" alt="NX Sass Plugin"/>
-          <br><strong>🎨 NX Sass Plugin</strong>
+          <br><strong>Development and maintenance of the code and infrastructure for Inditex's e-commerce platform.</strong>
         </a>
         <br>
         <sub>Plugin para Nx que facilita la integración con Sass</sub>
