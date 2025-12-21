@@ -122,7 +122,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
       </td>
       <td align="center" width="33%">
         <a href="https://www.pullreviewer.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-sass/master/sass-logo.png" height="80px" alt="NX Sass Plugin"/>
+          <img src="./assets/pullreviewer_logo.jpg" height="80px" alt="NX Sass Plugin"/>
           <br><strong>Pull Reviewer</strong>
         </a>
         <br>
