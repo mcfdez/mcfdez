@@ -112,7 +112,7 @@ During my career, I have developed dozens and dozens of projects, but here I wil
       </td>
       <td align="center" width="33%">
         <a href="https://octolab.dev" target="_blank">
-          <img src="https://raw.githubusercontent.com/GitOpsLovers/nx-biome/main/banner.jpg" height="80px" alt="NX Biome Plugin"/>
+          <img src="./assets/octolab_logo.jpg" height="80px" alt="NX Biome Plugin"/>
           <br>
           <strong>OctoLab</strong>
         </a>
