@@ -1,11 +1,8 @@
 {
     "name": "Personal page development container",
     "build": {
-        "dockerfile": "Dockerfile",
-        "args": {
-            "USER_ID": "1000",
-            "GROUP_ID": "1000"
-        }
+        "context": "..",
+        "dockerfile": "Dockerfile"
     },
     "customizations": {
         "vscode": {
@@ -14,17 +11,14 @@
                 "eamodio.gitlens",
                 "sleistner.vscode-fileutils",
                 "shd101wyy.markdown-preview-enhanced"
-            ]
+            ],
+            "settings": {
+                "http.proxyStrictSSL": false
+            }
         }
-        
     },
-    "mounts": [
-        "source=${localWorkspaceFolder},target=/workspace,type=bind"
-    ],
     "runArgs": [
         "--name",
         "personal-page-dev-container"
-    ],
-    "remoteUser": "vscode",
-    "postCreateCommand": "git config --global --add safe.directory /workspaces/mcfdez"
+    ]
 }

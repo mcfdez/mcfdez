@@ -177,6 +177,12 @@ const whoIAm = {
       description: "Space documentaries are my playlist for sleeping 🌌",
       confession: "I swear! 😴🚀",
       status: "Dreaming About Galaxies"
+    },
+    amateurDj: {
+      description: "Spinning beats and mixing code rhythms 🎧",
+      reality: "Amateur but passionate! 🔊",
+      skillLevel: "Bedroom DJ Extraordinaire",
+      motto: "If (code === working) { dropTheBeat(); }"
     }
   },
   
