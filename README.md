@@ -141,29 +141,6 @@ During my career, I have developed dozens and dozens of projects, but here I wil
 
 <br>
 
-## 📊 GitHub statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-stats.marcfl.dev/api?username=mcfdez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0,1a1b27,2d2e5f&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="GitHub stats"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-stats.marcfl.dev/api/top-langs?username=mcfdez&theme=tokyonight&show_icons=true&hide_title=true&card_width=400&bg_color=0,1a1b27,2d2e5f&text_color=ffffff&hide_border=true&hide=css,html,javascript&layout=compact" alt="Top languages"/>
-      </td>
-    </tr>
-  </table>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mcfdez/mcfdez/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 ## 🎭 It's not all about code!
 
 ```typescript
